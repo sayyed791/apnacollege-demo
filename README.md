@@ -1,2 +1,4 @@
 # apnacollege-demo
-this is 
+this is my first repository
+<br>
+Author Adnan Sayyed
